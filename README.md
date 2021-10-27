@@ -1,6 +1,6 @@
 # MCO
 
-Master Student at Nice-SophiaAntipolis
+## Master Student at Nice-SophiaAntipolis
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MonsieurCO)]
 
