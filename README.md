@@ -2,9 +2,9 @@
 
 ## Master Student at Nice-SophiaAntipolis
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MonsieurCO)
+![trophy](https://github-profile-trophy.vercel.app/?username=MonsieurCO&theme=onedark)
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonsieurCO&layout=compact&bg=blackt&theme=onedark)
 
-![trophy](https://github-readme-stats.vercel.app/api?username=MonsieurCO&show_icons=true&title_color=black&icon_color=black&text_color=black&bg_color=ffffft)
+![trophy](https://github-readme-stats.vercel.app/api?username=MonsieurCO&theme=onedark)
