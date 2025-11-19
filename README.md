@@ -1,6 +1,5 @@
 # MCO
 
-## Master Student at Nice-SophiaAntipolis
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/MCO.png" alt="TryHackMe">
 
